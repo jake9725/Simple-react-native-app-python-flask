@@ -4,10 +4,10 @@
 
 To make it work just :
 
-Python Flask Server; 
+**Python Flask Server**; 
 - pip install Flask
 
-React native app ; 
+**React native app** ; 
 - Copy the contents of App.js to App.js file in directory of the project .  
 
 Then just run the python file and open the app , 
