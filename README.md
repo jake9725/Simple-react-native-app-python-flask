@@ -10,8 +10,8 @@ To make it work just :
 **React native app** ; 
 - Copy the contents of App.js to App.js file in directory of the project .  
 
-Then just run the python file and open the app , 
-  you will see the magic : - ) 
+*Then just run the python file and open the app , 
+  you will see the magic : - ) *
 
 
 
