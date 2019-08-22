@@ -1,4 +1,4 @@
-# Simple-react-native-app with python-flask server
+# Simple react-native app with python flask-server
 
 <h3>Simple react-native app that fetch json from Python Flask server !</h3>
 
